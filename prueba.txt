@@ -3,9 +3,17 @@ tesis,
 https://repositorio.umsa.bo/bitstream/handle/123456789/8179/T.2856.pdf?sequence=1&isAllowed=y,
 https://repositorio.umsa.bo/bitstream/handle/123456789/7937/T.2826.pdf?sequence=1&isAllowed=y,
 https://repositorio.umsa.bo/bitstream/handle/123456789/17452/T-3394.pdf?sequence=1&isAllowed=y,
+https://repositorio.umsa.bo/bitstream/handle/123456789/16755/T-3360.pdf?sequence=1&isAllowed=y
+
+otros.
+http://repositorio.utmachala.edu.ec/bitstream/48000/7597/1/TCUAIC_2016_ISIST_CD0011.pdf,
+http://repositorio.upea.bo/bitstream/123456789/67/1/PDG%20_%20CESAR%20ARIEL%20GONZALES%20PAZ.pdf,
+
 
 https://es.slideshare.net/lporras567/presentacin-diseo-sistemas-sm
 
 https://www.abiztar.com.mx/articulos/casos-a-incluir-casos-a-extender.html
-https://repositorio.umsa.bo/bitstream/handle/123456789/16755/T-3360.pdf?sequence=1&isAllowed=y
 https://bookdown.org/paranedagarcia/database/modelamiento-de-datos-1.html
+
+
+AUP: http://dsc.itmorelia.edu.mx/~jcolivares/courses/pm10a/rup.pdf
