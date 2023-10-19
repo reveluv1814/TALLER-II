@@ -2,6 +2,7 @@ principales:
 tesis,
 https://repositorio.umsa.bo/bitstream/handle/123456789/8179/T.2856.pdf?sequence=1&isAllowed=y,
 https://repositorio.umsa.bo/bitstream/handle/123456789/7937/T.2826.pdf?sequence=1&isAllowed=y,
+http://dspace.unach.edu.ec/bitstream/51000/6121/1/Tesis_CarlosAndresNoboaGallardo.pdf ---AUP
 https://repositorio.umsa.bo/bitstream/handle/123456789/17452/T-3394.pdf?sequence=1&isAllowed=y,
 https://repositorio.umsa.bo/bitstream/handle/123456789/16755/T-3360.pdf?sequence=1&isAllowed=y
 
@@ -17,3 +18,5 @@ https://bookdown.org/paranedagarcia/database/modelamiento-de-datos-1.html
 
 
 AUP: http://dsc.itmorelia.edu.mx/~jcolivares/courses/pm10a/rup.pdf
+	https://www.mindmeister.com/es/611865502/aup-proceso-unificado-gil?fullscreen=1
+https://www.cualquierblog.com/tecnologia/metodologia-aup-agile-unified-process-proceso-unificado-agil-para-implementacion-del-erp-adempiere-parte-2.html
