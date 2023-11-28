@@ -1,16 +1,20 @@
 principales: 
 tesis,
-https://repositorio.umsa.bo/bitstream/handle/123456789/8179/T.2856.pdf?sequence=1&isAllowed=y,
-https://repositorio.umsa.bo/bitstream/handle/123456789/7937/T.2826.pdf?sequence=1&isAllowed=y,
+https://repositorio.umsa.bo/bitstream/handle/123456789/8179/T.2856.pdf?sequence=1&isAllowed=y ----OPENUP,
+https://repositorio.umsa.bo/bitstream/handle/123456789/7937/T.2826.pdf?sequence=1&isAllowed=y --AUP,
 http://dspace.unach.edu.ec/bitstream/51000/6121/1/Tesis_CarlosAndresNoboaGallardo.pdf ---AUP
 https://repositorio.umsa.bo/bitstream/handle/123456789/17452/T-3394.pdf?sequence=1&isAllowed=y,
 https://repositorio.umsa.bo/bitstream/handle/123456789/16755/T-3360.pdf?sequence=1&isAllowed=y
-https://repositorio.umsa.bo/bitstream/handle/123456789/8034/T.3004.pdf?sequence=1, AUP
+https://repositorio.umsa.bo/bitstream/handle/123456789/8034/T.3004.pdf?sequence=1 ---AUP
+http://repositorio.upao.edu.pe/bitstream/20.500.12759/1222/1/REP_ING.SIST_LINDLEY.JULCA_ALLINSON.ROJAS_SISTEMA.INFORMÁTICO.WEB.GESTION.VENTAS.BOUTIQUE.DETALLITOS.UTILIZANDO.METODOLOGÍA.AUP.FRAMEWORK.QCODO.PHP.pdf --AUP
+http://dspace.unach.edu.ec/bitstream/51000/6121/1/Tesis_CarlosAndresNoboaGallardo.pdf ---AUP
 
 otros.
 http://repositorio.utmachala.edu.ec/bitstream/48000/7597/1/TCUAIC_2016_ISIST_CD0011.pdf,
-http://repositorio.upea.bo/bitstream/123456789/67/1/PDG%20_%20CESAR%20ARIEL%20GONZALES%20PAZ.pdf,
-https://repositorio.upea.bo/jspui/handle/123456789/67
+https://repositorio.upea.bo/jspui/handle/123456789/67 ---AUP
+
+
+
 
 
 https://es.slideshare.net/lporras567/presentacin-diseo-sistemas-sm
@@ -18,6 +22,8 @@ https://es.slideshare.net/lporras567/presentacin-diseo-sistemas-sm
 https://www.abiztar.com.mx/articulos/casos-a-incluir-casos-a-extender.html
 https://bookdown.org/paranedagarcia/database/modelamiento-de-datos-1.html
 
+
+------------ Referencias:
 
 AUP: http://dsc.itmorelia.edu.mx/~jcolivares/courses/pm10a/rup.pdf
 	https://www.mindmeister.com/es/611865502/aup-proceso-unificado-gil?fullscreen=1
@@ -29,3 +35,37 @@ Estructura Orgánica del Instituto de Genética.
 Fuente: Instituto de Genética   
 
 https://www.duplichecker.com/es
+
+Ingenieria web referencias:
+https://silo.tips/download/el-proceso-unificado-de-desarrollo-de-software
+https://docplayer.es/27314349-Metodologias-agiles-proceso-unificado-agil-aup-ingenieria-del-software-ii-analisis-de-sistemas.html
+Libro pressman septima edicion
+
+Ingenieria web referencias:
+http://www.inf-cr.uclm.es/www/mpolo/asig/trabajos0910/Ingenieria_web_basada_en_modelos.pdf
+https://www.laccei.org/LACCEI2017-BocaRaton/student_Papers/SP277.pdf
+Libro Pressman de 5 edicion 
+http://marcelosalasvargas.blogspot.com/2017/04/ingenieria-web-guiada-por-modelos.html
+UWE:
+https://www.pst.ifi.lmu.de/~busch/thesisMarianneBusch.pdf --
+https://uwe.pst.ifi.lmu.de/exampleAddressBookWithContentUpdates.html
+https://uwe.pst.ifi.lmu.de/exampleUWEWebsite.html --
+http://sedici.unlp.edu.ar/bitstream/handle/10915/58143/Documento_completo.pdf-PDFA.pdf?sequence=1
+http://elproyectodeluisgaliano.blogspot.com/2012/11/metodologia-uwe-aplicada-mi-solucion.html ---
+https://repositorio.unan.edu.ni/3546/1/47725.pdf
+https://www.researchgate.net/publication/280580830_UWE_en_Sistema_de_Recomendacion_de_Objetos_de_Aprendizaje_Aplicando_Ingenieria_Web_Un_Metodo_en_Caso_de_Estudio --
+
+iso 25010:
+https://iso25000.com/index.php/normas-iso-25000/iso-25010
+https://www.perforce.com/blog/qac/what-is-iso-25010#:~:text=ISO25010%20describes%20two%20quality%20models,a%20particular%20context%20of%20use.
+---- proyectos:
+https://repositorio.umsa.bo/bitstream/handle/123456789/29715/PG-3923.pdf?sequence=1&isAllowed=y
+https://repositorio.umsa.bo/bitstream/handle/123456789/12518/T.3264.pdf?sequence=1&isAllowed=y
+
+
+
+Cocomo II:
+https://blogadmi1.files.wordpress.com/2010/11/cocom0llfull.pdf
+https://www.academia.edu/4853589/UN_MODELO_DE_ESTIMACION_DE_PROYECTOS_DE_SOFTWARE
+https://es.slideshare.net/4umito/cocomo-ii-gua
+
